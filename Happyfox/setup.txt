@@ -26,7 +26,7 @@ Follow the steps below to set up the project.
 4. Install the required dependencies:
    pip install -r requirements.txt
 
-5. create database
+5. create database email_db
 
 Configuration
 -------------

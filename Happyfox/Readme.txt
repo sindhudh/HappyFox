@@ -9,7 +9,6 @@ This project is a simple email processing system that Reads the  emails  and sto
 
 Installation
 ------------
-List the steps required to install your project. If there are any prerequisites or dependencies, mention them.
 
 Example:
 1. Clone the repository:
@@ -32,6 +31,7 @@ Example:
    Note: When you run the scripts for first time or token is expired, it will ask you to authenticate via google single-sign-on,select the google account and continue to give access to application to access your mail box
 
 2. You can also run the test suite:
+   cd to test foalder
    pytest
 
 Configuration
